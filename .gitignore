@@ -7,3 +7,4 @@ vk.sqlite
 /static
 .DS_Store
 vk_config.v2.json
+bot2.py
