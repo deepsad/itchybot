@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+myvenv
+vk_db.sqlite
+vk.sqlite
+/static
+.DS_Store
+vk_config.v2.json
